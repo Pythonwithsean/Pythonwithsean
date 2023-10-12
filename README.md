@@ -18,8 +18,8 @@ A Self-taught software developer with experience in JavaScript, Python, HTML, an
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Pythonwithsean?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Pythonwithsean?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Pythonwithsean?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Pythonwithsean/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/Pythonwithsean-profile-views"/></a>
+
+![](https://komarev.com/ghpvc/?username=Pythonwithsean)
 
    </p>
 
