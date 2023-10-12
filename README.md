@@ -6,6 +6,6 @@ A Self-taught software developer with experience in JavaScript, Python, HTML, an
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCh5L0QwH27DuIfV73l4zEjA">
-         <img alt="Youtube" title="Subscribe to my YouTube channel" src="https://www.iconpacks.net/icons/1/free-youtube-icon-123-thumb.png"/></a> 
+         <img alt="Youtube" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com?logo=pythonwithsean"/></a> 
      
    </p>
