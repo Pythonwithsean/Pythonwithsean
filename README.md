@@ -1,8 +1,8 @@
 # Pythonwithsean
 
-**`(Developer/Creator/Promoter/Student)`**
+**`Anime and Cartoon Addict (Developer/Creator/Promoter/Student)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[Pythonwithsean][youtube]" to more than 400k subscribers.
+A Self-taught software developer with experience in JavaScript, Python, HTML, and CSS who is highly motivated and detail oriented. knowledgeable about creating dynamic user interfaces, writing maintainable code, and developing responsive web applications and mobile applications. Strong analytical and problem-solving abilities, with the ability to function well both individually and in a team.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
