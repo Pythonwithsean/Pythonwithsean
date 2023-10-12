@@ -12,8 +12,11 @@ I'm a self-taught software developer with experience in JavaScript, Python, HTML
 </p>
 
 <p align="center" style="display:flex">
-  [![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCh5L0QwH27DuIfV73l4zEjA?sub_confirmation=1 "Subscribe to my YouTube channel")
-  ![](https://komarev.com/ghpvc/?username=Pythonwithsean&style=for-the-badge)
+
+[![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCh5L0QwH27DuIfV73l4zEjA?sub_confirmation=1 "Subscribe to my YouTube channel")
+
+![](https://komarev.com/ghpvc/?username=Pythonwithsean&style=for-the-badge)
+
 </p>
 
 ---
@@ -35,6 +38,7 @@ I'm a self-taught software developer with experience in JavaScript, Python, HTML
 <img align="left" alt="Svelte" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img align="left" alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="Adobe XD" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
-<img align="left" alt="Tailwind CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+
 
 ---
