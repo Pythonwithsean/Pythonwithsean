@@ -7,6 +7,7 @@ A Self-taught software developer with experience in JavaScript, Python, HTML, an
  <p align="left">
 
 [![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCh5L0QwH27DuIfV73l4zEjA?sub_confirmation=1 "Subscribe to my YouTube channel")
+
 <a href="https://www.youtube.com/c/fknight">
 <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
 <a href="https://github.com/ForrestKnight?tab=followers">
