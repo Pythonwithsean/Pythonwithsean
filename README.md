@@ -40,46 +40,14 @@ I'm a self-taught software developer with experience in JavaScript, Python, HTML
 
 ---
 
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/Pythonwithsean/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pythonwithsean&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/Pythonwithsean/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pythonwithsean&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons>false" alt="github-readme-streak-stats"></a>
-    <!-- Add more repositories from your account here -->
-  </p>
-
-<a href="https://github.com/Pythonwithsean?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
-</details>
-
-<details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
-
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  <p align="left">
-    <a href="https://github.com/Pythonwithsean/some-contributed-repo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pythonwithsean&repo=some-contributed-repo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="some-contributed-repo"></a>
-    <!-- Add more repositories you've contributed to here -->
-  </p>
-
-  <p align="left">
-    <a href="https://github.com/Pythonwithsean?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  </p>
-</details>
-
-<h3>💻 GitHub Profile Stats</h3>
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-<a href="https://github.com/Pythonwithsean/github-readme-stats">
-  <img alt="Pythonwithsean's Github Stats" src="https://pythonwithsean-github-readme-stats.vercel.app/api/?username=Pythonwithsean&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
-</a>
-
-<a href="https://github.com/Pythonwithsean/github-readme-stats">
-  <img alt="Pythonwithsean's Top Languages" src="https://pythonwithsean-github-readme-stats.vercel.app/api/top-langs/?username=Pythonwithsean&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px" />
-</a>
-<br/>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Pythonwithsean&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Pythonwithsean&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pythonwithsean&show_icons=true" />
+</picture>
