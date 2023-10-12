@@ -4,6 +4,12 @@
 
 A Self-taught software developer with experience in JavaScript, Python, HTML, and CSS who is highly motivated and detail oriented. knowledgeable about creating dynamic user interfaces, writing maintainable code, and developing responsive web applications and mobile applications. Strong analytical and problem-solving abilities, with the ability to function well both individually and in a team.
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
  <p align="left">
 
 [![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCh5L0QwH27DuIfV73l4zEjA?sub_confirmation=1 "Subscribe to my YouTube channel")
