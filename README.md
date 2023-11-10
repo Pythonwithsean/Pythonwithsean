@@ -33,14 +33,4 @@ I'm a self-taught software developer with experience in JavaScript, Python, HTML
 
 ---
 
-<picture>
-<!--   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Pythonwithsean&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Pythonwithsean&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" -->
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Pythonwithsean&show_icons=true" />
-</picture>
+
