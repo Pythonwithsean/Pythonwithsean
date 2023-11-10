@@ -6,7 +6,7 @@ I'm a self-taught software developer with experience in JavaScript, Python, HTML
 
 [![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCh5L0QwH27DuIfV73l4zEjA?sub_confirmation=1 "Subscribe to my YouTube channel")
 
-
+![](https://komarev.com/ghpvc/?username=Pythonwithsean&style=for-the-badge)
 
 ---
 
@@ -34,13 +34,13 @@ I'm a self-taught software developer with experience in JavaScript, Python, HTML
 ---
 
 <picture>
-  <source
+<!--   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Pythonwithsean&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Pythonwithsean&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" -->
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Pythonwithsean&show_icons=true" />
 </picture>
