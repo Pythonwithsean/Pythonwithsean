@@ -2,7 +2,10 @@
 
 **`Backend-Stack Developer | Developer/Youtube Creator//Student`**
 
-I'm a self-taught software developer with experience in JavaScript, Python, HTML, and CSS. I'm highly motivated and detail-oriented, knowledgeable about creating dynamic user interfaces, writing maintainable code, and developing responsive web and mobile applications. I have strong analytical and problem-solving abilities and work well both individually and in a team.
+A First Year Scholar and a self-taught Software Engineer, keen on results and I have a very good understanding of Data Structures and Algorithms and love making interfaces and Backend Services. I Love Golang and its concurrency and it is my favourite language. I make Youtube Videos about Tech on My channel CodershubUk_ and I love Programming and Learning more About Vim and the Linux Terminal.
+
+Checkout My Business Website(Still in Development)
+https://codershub.uk/
 
 [![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCh5L0QwH27DuIfV73l4zEjA?sub_confirmation=1 "Subscribe to my YouTube channel")
 
