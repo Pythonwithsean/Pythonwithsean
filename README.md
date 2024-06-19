@@ -35,4 +35,6 @@ https://codershub.uk/
 
 ---
 
+![gopher dancing](./dancing-gopher.gif)
+
 
