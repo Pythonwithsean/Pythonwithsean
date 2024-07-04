@@ -38,3 +38,8 @@ https://codershub.uk/
 ![gopher dancing](./dancing-gopher.gif)
 
 
+---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/pythonwithseann?theme=dark&font=Reenie%20Beanie&ext=activity)
+
+
