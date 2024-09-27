@@ -2,7 +2,7 @@
 
 **`Software Developer | Developer/Youtube Creator/Student`**
 
-A First Year Scholar and a self-taught Software Engineer, keen on results and I have a very good understanding of Data Structures and Algorithms and love making interfaces and Backend Services. I Love Golang and its concurrency and it is my favourite language. I make Youtube Videos about Tech on My channel CodershubUk_ and I love Programming and Learning more About Vim and the Linux Terminal.
+A Second Year Scholar and a self-taught Software Engineer, keen on results and I have a very good understanding of Data Structures and Algorithms and love making interfaces and Backend Services. I Love Golang and its concurrency and it is my favourite language. I make Youtube Videos about Tech on My channel CodershubUk_ and I love Programming and Learning more About Vim and the Linux Terminal.
 
 Checkout My Business Website(Still in Development)
 https://codershub.uk/
