@@ -27,6 +27,8 @@ Portfolio Website https://pythonwithsean.netlify.app/
 <img align="left" alt="Graphql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
 <img align="left" alt="Graphql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 <img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<br/>
+<br/>
 
 
 ---
