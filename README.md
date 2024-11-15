@@ -4,7 +4,7 @@
 
 A second-year scholar and self-taught software engineer with strong skills in data structures, algorithms, and building interfaces and backend services. Passionate about Golang, Tech.
 
-Portfolio Website - https://pythonwithsean.netlify.app/
+Portfolio - https://pythonwithsean.netlify.app/
 
 
 ---
