@@ -2,20 +2,10 @@
 
 **`Software Developer | Developer/Youtube Creator/Student`**
 
-A Second Year Scholar and a self-taught Software Engineer, keen on results and I have a very good understanding of Data Structures and Algorithms and love making interfaces and Backend Services. I Love Golang and its concurrency and it is my favourite language. I make Youtube Videos about Tech on My channel CodershubUk_ and I love Programming and Learning more About Vim and the Linux Terminal.
-
-Checkout My Business Website(Still in Development)
-https://codershub.uk/
+A second-year scholar and self-taught software engineer with strong skills in data structures, algorithms, and building interfaces and backend services. Passionate about Golang, Tech.
 
 Portfolio Website https://pythonwithsean.netlify.app/
 
-Tiktok Content - https://www.tiktok.com/@codershubuk
-
-Tiktok Video for Anime Streaming website: https://www.tiktok.com/@codershubuk/video/7388672021271514401
-
-[![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCh5L0QwH27DuIfV73l4zEjA?sub_confirmation=1 "Subscribe to my YouTube channel")
-
-![](https://komarev.com/ghpvc/?username=Pythonwithsean&style=for-the-badge)
 
 ---
 
