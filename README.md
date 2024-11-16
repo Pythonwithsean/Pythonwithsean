@@ -11,8 +11,6 @@ Portfolio - https://pythonwithsean.netlify.app/
 
 ### 🧰 Languages and Tools
 
-
-<h2>Technical Languages</h2>
 <p>
 <strong>Programming Languages:</strong> Go, Python, JavaScript,
 TypeScript, Java, C++, SQL, HTML, CSS
