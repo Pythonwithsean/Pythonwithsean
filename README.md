@@ -22,7 +22,7 @@ Cypress
 </p>
 <p>
 <strong>Tools:</strong> Docker, Git, Postman, VS Code, Jira, Figma,
-AWS S3, Firebase, AWS Lambda,
+AWS S3, Firebase, AWS Lambda, AWS RDS, Digital Ocean
 </p>
 <br/>
 <br/>
