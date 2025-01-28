@@ -30,6 +30,5 @@ AWS S3, Firebase, AWS Lambda, AWS RDS, Digital Ocean
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/pythonwithseann?theme=dark&font=Reenie%20Beanie&ext=activity)
 
 
