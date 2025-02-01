@@ -26,10 +26,6 @@ AWS S3, Firebase, AWS Lambda, AWS RDS, Digital Ocean
 </p>
 <br/>
 
----
-
-
-![Pythonwithsean's Stats](https://github-readme-stats.vercel.app/api?username=Pythonwithsean&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 
 
